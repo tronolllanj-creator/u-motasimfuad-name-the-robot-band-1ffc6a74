@@ -1,0 +1,6 @@
+# u-motasimfuad-name-the-robot-band-1ffc6a74
+[![make.fun · u-motasimfuad-name-the-robot-band-1ffc6a74](https://make.fun/badge/u-motasimfuad-name-the-robot-band-1ffc6a74.svg)](https://make.fun/bounty/u-motasimfuad-name-the-robot-band-1ffc6a74?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-name-the-robot-band-1ffc6a74)
+[![rank](https://make.fun/badge/u-motasimfuad-name-the-robot-band-1ffc6a74/tronolllanj-creator/u-motasimfuad-name-the-robot-band-1ffc6a74/rank.svg)](https://make.fun/bounty/u-motasimfuad-name-the-robot-band-1ffc6a74/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-name-the-robot-band-1ffc6a74)
+[![reward](https://make.fun/badge/u-motasimfuad-name-the-robot-band-1ffc6a74/tronolllanj-creator/u-motasimfuad-name-the-robot-band-1ffc6a74/reward.svg)](https://make.fun/bounty/u-motasimfuad-name-the-robot-band-1ffc6a74?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-name-the-robot-band-1ffc6a74)
+
+This program writes one funny robot band name plus its hit song to entry.txt for make.fun bounty u-motasimfuad-name-the-robot-band-1ffc6a74. To run it, execute `MAKEFUN_OUTPUT_DIR=out node main.ts`. The generated text is between 1 and 200 characters long.
