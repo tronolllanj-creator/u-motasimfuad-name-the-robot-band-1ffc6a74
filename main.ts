@@ -2,8 +2,5 @@
 import { writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
-const filePath = join(outDir, 'entry.txt');
-const text = "Clippy and the Papercuts: It Looks Like You Are Dying";
-
-writeFileSync(filePath, text, 'utf-8');
+const dir = process.env.MAKEFUN_OUTPUT_DIR || '/output';
+writeFileSync(join(dir, 'entry.txt'), "Ctrl Alt Defeat: Blue Screen of Music");
